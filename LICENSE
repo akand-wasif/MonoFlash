@@ -1,16 +1,38 @@
-MIT License
+MonoFlash Non-Commercial License (Custom)
 
 Copyright (c) 2026 Wasif Akand
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to any person to use, study, copy, modify, and share this
+software and derivative works for personal and other non-commercial purposes,
+subject to the conditions below.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Conditions
+
+1. Non-commercial use only. You may not sell, license for a fee, or otherwise
+   use this software or a derivative work for commercial advantage or monetary
+   compensation. This includes incorporating it into a product or service that
+   is sold, using it in a paid service, or distributing it as part of a
+   commercial offering. You must obtain separate written permission from the
+   copyright holder for any commercial use.
+
+2. Attribution and no misrepresentation. When you share this software or a
+   derivative work, you must retain this license and applicable copyright
+   notices, give appropriate credit to the original project and its authors,
+   and clearly indicate significant changes. You may not claim that someone
+   else's work is your own or remove notices to misrepresent its authorship.
+
+3. Share under these terms. Any copy or derivative work you distribute must
+   include this license and remain subject to these same non-commercial
+   conditions.
+
+4. Contributions. You may contribute improvements to the project. Unless you
+   and the project owner agree otherwise in writing, by submitting a
+   contribution you grant the project owner permission to use, modify, and
+   distribute that contribution under this license. You retain ownership of
+   your contribution.
+
+This license does not transfer ownership of the software or grant any rights
+not expressly stated above. All rights not expressly granted are reserved.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
